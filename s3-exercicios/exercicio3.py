@@ -1,5 +1,5 @@
 """3. Faça um programa que recebe três
- valores e apresente a soma dos quadrados dos valores lidos."""
+ valores e apresente a soma dos quadrados dos valores lidosbbhbh."""
 
 valor: int = int(input("Digite o primeiro Valor inteiro:"))
 print(valor)
