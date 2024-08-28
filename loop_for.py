@@ -60,6 +60,7 @@ for n in range(1, qtd+1):# o range é sempre o valor menos 1, caso queria acresc
 #https://apps.timwhitlock.info/emoji/tables/unicode
 #codigo original U+1F638
 # modificado U0001f638 para mudar o codigo, no lugar do + colocar 3 zeros
+#serve para utilizar emojis
 
 for _ in range(3):
     for num in range(1, 5):

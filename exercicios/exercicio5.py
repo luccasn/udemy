@@ -9,3 +9,4 @@ if num > 0:
     print(f'A raiz quadrada {num} é {sqrt(num)}')
 else:
     print(f'O número {num} é inválido')
+
